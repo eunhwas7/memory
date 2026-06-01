@@ -1,0 +1,21 @@
+{
+  "tasks": [
+    {
+      "id": "20260601064139-zu7y",
+      "title": "영상 촬영 및 편집: 레오 에이전트 산출물 참조",
+      "description": "자동 등록 (Instagram 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "instagram"
+      ],
+      "createdAt": "2026-06-01T06:41:39.727Z",
+      "status": "done",
+      "sessionDir": "2026-06-01T06-36",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-01T06-36/_report.md\n- Instagram: 'AI 로 예금 2 배' 스크립트를 기반으로 40-70 대 타겟에게 쉬운 금융 팁을 담은 1 분 릴스 기획서 작성. 해시태그: #은퇴준비 #재테\n- Writer: 다음 유튜브 영상 주제 및 썸네일 텍스트 브리프 작성. 주요 키워드 'AI 와 은퇴 자금', 배경색 빨강 유지, 후크 문구 'B 선택'. 썸네일\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 📷 Instagram _(Head of Instagram)_\n> 📋 **지시**: 'AI 로 예금 2 배' 스크립트를 기반으로 40-70 대 타겟에게 쉬운 금융 팁을 담은 1 분 릴스 기획서 작성. 해시태그: #은퇴준비 #재테크 #금융팁, 게시 시간: 오늘 오후 6 시. 릴스 제목: 'AI 가 알아서 예",
+      "completedAt": "2026-06-01T06:44:14.847Z"
+    }
+  ]
+}
